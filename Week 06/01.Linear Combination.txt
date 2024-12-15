@@ -1,0 +1,38 @@
+A linear combination is an expression that involves multiplying vectors by scalars (real or complex numbers) and then adding the results together. In a vector space, a linear combination represents a way to generate new vectors using a set of given vectors and scalar coefficients.
+
+Definition of Linear Combination
+
+Given a set of vectors v1, v2, .., vn in a vector space V, and scalars c1, c2, .., cn the expression:
+
+c1v1 + c2v2 + .. + cnvn
+
+s called a linear combination of the given vectors.
+
+-The scalars are called coefficients.
+-The given vectors are called basis vectors.
+
+--------------------------------------------
+
+Example:
+
+The vectors are given: v1=(2,1,-3); v2=(3,1,5); v3=(0,2,4). Show that w=(3,-4,5) is linear combination of the given vectors.
+
+w = c1v1 + c2v2 + c3v3
+
+c1*(2,1,-3) + c2*(3,1,5) + c3*(0,2,4) = (3,-4,5)
+
+Calculating the equation we can find c1, c2 and c3.
+
+--------------------------------------------
+
+Why Are Linear Combinations Important?
+
+Linear combinations are fundamental in linear algebra because they help define many key concepts, such as:
+
+-Span
+
+-Linear Independence
+
+-Basis and Dimension
+
+-Solving Systems of Linear Equations
